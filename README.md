@@ -28,8 +28,8 @@ This project aims to develop a laptop screen with an integrated LCD and alarm sy
 4. **Model Training:** Train machine learning models using extracted features and labeled data.
 5. **Real-time Classification:** Deploy trained models to classify ongoing EEG signals in real-time.
 6. **Actuator Control:** Implement actuator control mechanisms to translate model predictions into actions.
-![EEG-Based Eye Movement Monitoring System](Screenshot 2024-06-08 204525.png)
-![EEG-Based Eye Movement Monitoring System3](Screenshot 2024-06-08 204511.png)
+![Screenshot 2024-06-08 204525.png](Screenshot 2024-06-08 204525.png)
+![Screenshot 2024-06-08 204511.png](Screenshot 2024-06-08 204511.png)
 
 
 ## Dependencies
