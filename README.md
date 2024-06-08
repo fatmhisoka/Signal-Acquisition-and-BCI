@@ -1,4 +1,4 @@
-# EEG-Based Laptop Screen with Eye Detection Readme
+# EEG-Based Laptop Screen with Eye Detection
 
 ## Introduction
 This project aims to develop a laptop screen with an integrated LCD and alarm system that monitors the user's eye movements using EEG brain signals. When the system detects that the user's eyes are closed for 10 seconds, it triggers an alarm to alert the user and prompt them to open their eyes.
